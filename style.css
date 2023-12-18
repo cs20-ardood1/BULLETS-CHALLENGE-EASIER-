@@ -1,0 +1,13 @@
+body {
+  text-align: center;
+  background-color: aliceblue;
+}
+
+h1 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+canvas {
+  border: 1px solid gray;
+  background-color: grey;
+}
